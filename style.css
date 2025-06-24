@@ -1,0 +1,18 @@
+body{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    height: 100vh;
+}
+
+h2{
+    padding: 20px;
+    border-radius: 10px;
+    color: transparent;
+    text-align: center;
+    font-size: 8em;
+    background-image: url(https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTaOL0d3urn7SQAYILC4GbcsLX2ktBYnRWYDw&s);
+    background-size: contain;
+    box-shadow: 0px 2px 10px rgba(0, 0, 0, 0.07);
+    -webkit-background-clip: text;
+}
